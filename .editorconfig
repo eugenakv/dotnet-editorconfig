@@ -1247,7 +1247,7 @@ dotnet_diagnostic.IDE0057.severity = warning
 csharp_style_prefer_range_operator = true
 
 # IDE0058: Remove unnecessary expression value
-dotnet_diagnostic.IDE0058.severity = warning
+dotnet_diagnostic.IDE0058.severity = refactor
 csharp_style_unused_value_expression_statement_preference = discard_variable
 visual_basic_style_unused_value_expression_statement_preference = unused_local_variable
 
